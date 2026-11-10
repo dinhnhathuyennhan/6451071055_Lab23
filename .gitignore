@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+models_bai3/
+*.keras
+# Tài liệu môn học và file báo cáo Word không đưa lên repo
+*.pdf
+*.docx
+~$*
